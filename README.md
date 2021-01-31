@@ -5,7 +5,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ### 🧠 "Nunca deixe seu senso moral impedir você de fazer o que é certo."
 - 📌 From MA
-- 🦸‍♂️ Super héroi in free time
+- 🦸‍♂️ Super hero in free time
 - 🌈 Sharing a little of my Back-end journey at [Devflow](https://github.com/devflowbr)
 - 🤖 Robot creator at [Açaímov - IFMA](https://github.com/acaimov)
 
