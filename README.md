@@ -5,4 +5,3 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 📌 From MA
 - 🦸‍♂️ Super hero in free time
-- 🤖 Robot creator at [Açaímov - IFMA](https://github.com/acaimov)
